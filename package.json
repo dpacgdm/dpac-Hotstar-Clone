@@ -10,7 +10,7 @@
     "@babel/plugin-transform-optional-chaining": "^7.21.0",
     "@rollup/plugin-terser": "^8.0.0",
     "@jridgewell/sourcemap-codec": "^1.4.8",
-    "workbox-cacheable-response": "^6.6.0", // Ensure it is the correct latest version
+    "workbox-cacheable-response": "^6.6.0",
     "svgo": "^2.8.0"
   }
   "scripts": {
